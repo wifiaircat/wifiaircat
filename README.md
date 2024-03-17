@@ -1,7 +1,7 @@
 ## Wifi AirCat 's HOME🏠
 
 ### Let's Bba-i!
-🅸 🅰🅼 Studies at Kyungpook N. Univ.
+🅸 study at Kyungpook N. Univ.
 
 🆅🅴🅻🅾🅶 https://velog.io/@wifiaircat
 

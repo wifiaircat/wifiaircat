@@ -9,7 +9,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp; 🆅🅴🅻🅾🅶 https://velog.io/@wifiaircat
 
 
-- 2024 GLOW HACKATON - 팀 UHH(2024.06) + README상 수상
+- 2024 공공데이터 활용 도로 관리 효율화 해커톤 - 팀 DRDR / 상 수상 (2024.08)
+- 2024 GLOW HACKATON - 팀 UHH / README상 수상 (2024.06)
 - 경북대학교 중앙동아리 앱동(APPDONG)(2023.09 ~)
 - 컴퓨터활용능력 1급(2023.08)
-- 한국사능력검정시험 1급(2017.08)

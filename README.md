@@ -7,7 +7,7 @@
 ### **_♡ What I do_**
 &nbsp;&nbsp;&nbsp;&nbsp; 🆂🆃🆄🅳🆈 at Kyungpook N. Univ. </br>
 &nbsp;&nbsp;&nbsp;&nbsp; 🅼🅰🅹🅾🆁 Korean Language & Computer Engineering </br>
-&nbsp;&nbsp;&nbsp;&nbsp; 🆅🅴🅻🅾🅶 https://velog.io/@wifiaircat
+&nbsp;&nbsp;&nbsp;&nbsp; 🆂🆃🅾🆁🆈 https://wifiaircat.tistory.com/
 
 - 2024 대구를 빛내는 SW 해커톤 - 팀 UNN / 본선 진출 (2024.09)
 - 2024 공공데이터 활용 도로 관리 효율화 해커톤 - 팀 DRDR / 아이디어상(4위) 수상 (2024.08)

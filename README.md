@@ -11,5 +11,5 @@
 - 경북대학교 중앙동아리 앱동(APPDONG)(2023.09 ~)
 - 컴퓨터활용능력 1급(2023.08)
 
-### **_♡ In_**
-:
+### **_♡ Interested in_**
+: System programming

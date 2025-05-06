@@ -12,4 +12,4 @@
 - 컴퓨터활용능력 1급(2023.08)
 
 ### **_♡ Interested in_**
-: System programming
+: System, ICT, SSD Simulator,,, 

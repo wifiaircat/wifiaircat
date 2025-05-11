@@ -10,6 +10,7 @@
 - 2024 GLOW 해커톤 - README상 수상 (2024.06)
 - 경북대학교 중앙동아리 앱동(APPDONG)(2023.09 ~)
 - 컴퓨터활용능력 1급(2023.08)
+- 2023 대구광역시 우수자원봉사자 선정
 
 ### **_♡ Interested in_**
 : System, ICT, SSD Simulator,,, 

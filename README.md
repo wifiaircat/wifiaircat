@@ -5,6 +5,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp; 🅼🅰🅹🅾🆁 Korean Language & Computer Science and Engineering </br>
 &nbsp;&nbsp;&nbsp;&nbsp; 🆂🆃🅾🆁🆈 https://wifiaircat.tistory.com/
 
+- 경북대학교 컴퓨터학부 MECCA 연구실 학부연구생 (2025.01 ~)
 - 2024 대구를 빛내는 SW 해커톤 - 본선 진출 (2024.09)
 - 2024 공공데이터 활용 도로 관리 효율화 해커톤 - 경북대학교 스타트업지원센터장상 수상 (2024.08)
 - 2024 GLOW 해커톤 - README상 수상 (2024.06)

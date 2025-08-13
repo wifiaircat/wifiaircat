@@ -1,9 +1,9 @@
 # <div align=center> _𝐖𝐢𝐟𝐢-𝑨𝑰𝑹𝑪𝑨𝑻 's Home🏠_ </div>
 
 ### **_♡ What I do_**
-&nbsp;&nbsp;&nbsp;&nbsp; 🆂🆃🆄🅳🆈 at Kyungpook N. Univ. </br>
-&nbsp;&nbsp;&nbsp;&nbsp; 🅼🅰🅹🅾🆁 Korean Language & Computer Science and Engineering </br>
-&nbsp;&nbsp;&nbsp;&nbsp; 🆂🆃🅾🆁🆈 https://wifiaircat.tistory.com/
+&nbsp;&nbsp;&nbsp;&nbsp; 🅱.🅰. in Korean Language & Computer Science and Engineering </br>
+&nbsp;&nbsp;&nbsp;&nbsp; 🆂🆃🆄🅳🆈🅸🅽🅶 at Kyungpook N. Univ. </br>
+&nbsp;&nbsp;&nbsp;&nbsp; 🅰🆁🅲🅷🅸🆅🅴 https://wifiaircat.tistory.com/
 
 - KNU CSE Memory and Computer Architecture Lab 학부연구생 (2025.01. ~)
 - 2024 대구를 빛내는 SW 해커톤 - 본선 진출 (2024.09)

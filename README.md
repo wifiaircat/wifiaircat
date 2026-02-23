@@ -7,9 +7,9 @@
 
 - BA/BS - Double Major in [Korean Language and Literature] & [Computer Science and Engineering]
 - KNU CSE Memory Computing and Computer Architecture Lab 학부연구생 (2025.01. - 2026.02.)
-- 2024 대구를 빛내는 SW 해커톤 - 본선 진출 (2024.09)
-- 2024 공공데이터 활용 도로 관리 효율화 해커톤 - 경북대학교 스타트업지원센터장상 (2024.08.)
-- 2024 GLOW 해커톤 - README상 (2024.06.)
+- 2024 대구를 빛내는 SW Hackaton - 본선 진출 (2024.09)
+- 2024 공공데이터 활용 도로 관리 효율화 Hackaton - 경북대학교 스타트업지원센터장상 (2024.08.)
+- 2024 GLOW Hackaton - README awards (2024.06.)
 - 경북대학교 중앙동아리 앱동(APPDONG)(2023.09. - 2025.06.)
 - 컴퓨터활용능력 1급(2023.08.)
 
